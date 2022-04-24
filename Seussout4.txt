@@ -1,0 +1,3 @@
+Collisions using hash 2: 2.04893, and collision handling 2: 6.78688
+
+You're 
